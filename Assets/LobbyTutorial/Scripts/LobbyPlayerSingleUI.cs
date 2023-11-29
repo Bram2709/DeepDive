@@ -11,10 +11,12 @@ public class LobbyPlayerSingleUI : MonoBehaviour {
     [SerializeField] private TextMeshProUGUI playerNameText;
     [SerializeField] private Image characterImage;
     [SerializeField] private Button kickPlayerButton;
+    [SerializeField] private Button blockPlayerButton;
+    [SerializeField] private BlockListManager blockListManager;
+
 
 
     private Player player;
-
 
     private void Awake() {
         kickPlayerButton.onClick.AddListener(KickPlayer);
@@ -22,6 +24,11 @@ public class LobbyPlayerSingleUI : MonoBehaviour {
 
     public void SetKickPlayerButtonVisible(bool visible) {
         kickPlayerButton.gameObject.SetActive(visible);
+    }
+
+    public void SetMutePlayerButtonVisible(bool visible)
+    {
+        blockPlayerButton.gameObject.SetActive(visible);
     }
 
     public void UpdatePlayer(Player player) {
@@ -38,5 +45,33 @@ public class LobbyPlayerSingleUI : MonoBehaviour {
         }
     }
 
-
+    public void BlockPlayer() {
+        if (blockListManager.playerNames.Count != 0)
+        {
+            foreach (var item in blockListManager.playerNames)
+            {
+                if (item == playerNameText.text)
+                {
+                    //remove from bloclist  
+                    blockListManager.RemovePlayerFromBlockList(playerNameText.text);
+                    break;
+                }
+                else
+                {
+                    if (player != null)
+                    {
+                        blockListManager.AddPlayerToBlockList(playerNameText.text);
+                    }
+                }
+            }
+        }
+        else
+        {
+            if (player != null)
+            {
+                blockListManager.AddPlayerToBlockList(playerNameText.text);
+            }
+        }
+        
+    }
 }

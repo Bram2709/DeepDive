@@ -106,18 +106,18 @@ namespace Unity.Services.Lobbies.Http
                     if (typeof(IOneOf).IsAssignableFrom(responseType))
                     {
                         var instance = CreateOneOfException(response, responseType);
-                        //throw instance;
+                        throw instance;
                     }
                     else
                     {
                         var instance = CreateHttpException(response, responseType);
-                        //throw instance;
+                        throw instance;
                     }
                 }
             }
             else
             {
-               //throw new HttpException(response);
+                throw new HttpException(response);
             }
         }
 

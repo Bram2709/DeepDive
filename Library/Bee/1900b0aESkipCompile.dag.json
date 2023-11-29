@@ -24,11 +24,18 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Authentication.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Analytics.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Configuration.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Device.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Environments.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Internal.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Networking.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Registration.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Scheduler.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Telemetry.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Core.Threading.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Lobbies.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Services.Wire.Internal.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\\unity-websocket-sharp.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.2.1\\Runtime\\Newtonsoft.Json.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.services.wire@1.2.0\\Plugins\\websocket-sharp.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\UnityEditors\\2022.3.10f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\UnityEditors\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\UnityEditors\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\UnityEditors\\2022.3.10f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\UnityEditors\\2022.3.10f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.2.1\\Runtime\" -s=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.services.wire@1.2.0\\Plugins\" -s=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"C:\\Users\\31648\\Documents\\Fontys\\S7\\DeepDive\\LobbySystem\\Lobby\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Assemblies\\Fusion.Common.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Assemblies\\Fusion.Realtime.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Assemblies\\Fusion.Runtime.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Assemblies\\Fusion.Sockets.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Plugins\\NanoSockets\\NanoSockets\\Dynamic\\NanoSockets.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\PhotonLibs\\netstandard2.0\\Photon3Unity3D.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Fusion.Addressables.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Authentication.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Analytics.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Configuration.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Device.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Environments.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Internal.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Networking.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Registration.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Scheduler.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Telemetry.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Core.Threading.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Lobbies.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Services.Wire.Internal.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\\unity-websocket-sharp.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.mono-cecil@1.10.2\\Mono.Cecil.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.mono-cecil@1.10.2\\Mono.Cecil.Mdb.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.mono-cecil@1.10.2\\Mono.Cecil.Pdb.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.mono-cecil@1.10.2\\Mono.Cecil.Rocks.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.2.1\\Runtime\\Newtonsoft.Json.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.services.wire@1.2.0\\Plugins\\websocket-sharp.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Assemblies\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\Fusion\\Plugins\\NanoSockets\\NanoSockets\\Dynamic\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Assets\\Photon\\PhotonLibs\\netstandard2.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\ScriptAssemblies\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.mono-cecil@1.10.2\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.2.1\\Runtime\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.services.wire@1.2.0\\Plugins\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"G:\\School\\S7\\DeepDive\\DeepDive\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
-        "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
-        "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
+        "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
+        "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
+        "Assets/Photon/Fusion/Assemblies/Fusion.Common.dll",
+        "Assets/Photon/Fusion/Assemblies/Fusion.Realtime.dll",
+        "Assets/Photon/Fusion/Assemblies/Fusion.Runtime.dll",
+        "Assets/Photon/Fusion/Assemblies/Fusion.Sockets.dll",
+        "Assets/Photon/Fusion/Plugins/NanoSockets/NanoSockets/Dynamic/NanoSockets.dll",
+        "Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
         "Library/ScriptAssemblies/Assembly-CSharp.dll",
+        "Library/ScriptAssemblies/Fusion.Addressables.dll",
         "Library/ScriptAssemblies/Unity.Services.Authentication.dll",
         "Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll",
         "Library/ScriptAssemblies/Unity.Services.Core.Configuration.dll",
@@ -53,6 +60,10 @@
         "Library/ScriptAssemblies/UnityEngine.UI.dll",
         "Library/ScriptAssemblies/unity-websocket-sharp.dll",
         "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll",
+        "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.dll",
+        "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Mdb.dll",
+        "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Pdb.dll",
+        "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Rocks.dll",
         "Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll",
         "Library/PackageCache/com.unity.services.wire@1.2.0/Plugins/websocket-sharp.dll",
         "Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll",
@@ -80,106 +91,106 @@
   ],
   "FileSignatures": [
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/BeeLocalCacheTool.exe"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/BeeLocalCacheTool.exe"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
     },
     {
-      "File": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
     },
     {
       "File": "Library/Bee/1900b0aESkipCompile-inputdata.json"
@@ -193,10 +204,40 @@
       "File": "Assets/mcs.rsp"
     },
     {
+      "File": "Assets/Photon/Fusion/Assemblies/Fusion.Common.dll"
+    },
+    {
+      "File": "Assets/Photon/Fusion/Assemblies/Fusion.Realtime.dll"
+    },
+    {
+      "File": "Assets/Photon/Fusion/Assemblies/Fusion.Runtime.dll"
+    },
+    {
+      "File": "Assets/Photon/Fusion/Assemblies/Fusion.Sockets.dll"
+    },
+    {
+      "File": "Assets/Photon/Fusion/Plugins/NanoSockets/NanoSockets/Dynamic/NanoSockets.dll"
+    },
+    {
+      "File": "Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
+    },
+    {
       "File": "Library/Bee/1900b0aESkipCompile-inputdata.json"
     },
     {
       "File": "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Mdb.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Pdb.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Rocks.dll"
     },
     {
       "File": "Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
@@ -212,6 +253,9 @@
     },
     {
       "File": "Library/ScriptAssemblies/Assembly-CSharp.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Fusion.Addressables.dll"
     },
     {
       "File": "Library/ScriptAssemblies/unity-websocket-sharp.dll"
@@ -285,7 +329,7 @@
   ],
   "GlobSignatures": [
     {
-      "Path": "C:/Program Files/UnityEditors/2022.3.10f1/Editor/Data/Tools/BuildPipeline"
+      "Path": "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/BuildPipeline"
     }
   ],
   "ContentDigestExtensions": [
@@ -315,6 +359,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aESkipCompile.dag.json",
-  "PayloadsFile": "C:/Users/31648/Documents/Fontys/S7/DeepDive/LobbySystem/Lobby/Library/Bee/1900b0aESkipCompile.dag.payloads",
+  "PayloadsFile": "G:/School/S7/DeepDive/DeepDive/Library/Bee/1900b0aESkipCompile.dag.payloads",
   "RelativePathToRoot": "../.."
 }

@@ -84,6 +84,10 @@ public class LobbyUI : MonoBehaviour {
                 player.Id != AuthenticationService.Instance.PlayerId // Don't allow kick self
             );
 
+            lobbyPlayerSingleUI.SetMutePlayerButtonVisible(
+                 player.Id != AuthenticationService.Instance.PlayerId
+                );
+
             lobbyPlayerSingleUI.UpdatePlayer(player);
         }
 
